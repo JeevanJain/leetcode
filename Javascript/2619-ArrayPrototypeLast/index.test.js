@@ -1,4 +1,4 @@
-const ArrayProtoLast = require('./index');
+require('./index');
 
 describe('Array.prototype.last', () => {
     test('empty array -1 result', () => {
