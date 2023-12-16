@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeevanJain/leetcode.git"
+  },
+  "author": "JeevanJain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeevanJain/leetcode/issues"
+  },
+  "homepage": "https://github.com/JeevanJain/leetcode#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

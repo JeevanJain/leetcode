@@ -10,3 +10,5 @@ Array.prototype.last = function () {
 
 const arr = [];
 console.log(arr.last()); // 3
+
+module.exports = arr;
