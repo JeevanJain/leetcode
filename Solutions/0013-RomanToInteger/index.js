@@ -1,3 +1,7 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
 // Roman numerals
 const romans = {
   I: 1,
@@ -8,13 +12,13 @@ const romans = {
   D: 500,
   M: 1000,
 };
-function convertRomanToInteger(str) {
+function romanToInt(str) {
   let sum = 0;
   for (let index = 0; index < str.length; index++) {
     // first index
     const current = romans[str[index]];
     // second index
-    const next = romans[str[index+1]] || 0;
+    const next = romans[str[index + 1]] || 0;
     // comparision
     if (next > current) sum -= current
     else sum += current
@@ -35,7 +39,7 @@ function convertRomanToInteger(str) {
   });
   readline.question('Roman Input : ', num => {
     console.log(`Roman -> ${num}`);
-    console.log(`Int -> ${convertRomanToInteger(num)}`);
+    console.log(`Int -> ${romanToInt(num)}`);
     readline.close();
   });
 })();
