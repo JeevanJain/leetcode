@@ -24,3 +24,8 @@
 
 ---
 
+##  [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+
+[Javascript](https://github.com/JeevanJain/leetcode/tree/main/Solutions/01-99/20-ValidParentheses)
+
+---
