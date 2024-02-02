@@ -6,3 +6,21 @@
 
 ---
 
+##  [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
+
+[Javascript](https://github.com/JeevanJain/leetcode/tree/main/Solutions/01-99/09-PalindromeNumber)
+
+---
+
+##  [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description)
+
+[Javascript](https://github.com/JeevanJain/leetcode/tree/main/Solutions/01-99/13-RomanToInteger)
+
+---
+
+##  [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+
+[Javascript](https://github.com/JeevanJain/leetcode/tree/main/Solutions/01-99/14-LongestCommonPrefix)
+
+---
+
